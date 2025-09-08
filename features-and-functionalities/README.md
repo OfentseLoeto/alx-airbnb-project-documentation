@@ -80,5 +80,5 @@
   - Bookings (override, dispute resolution).
   - Payment audits & logs.
 
-  ### Diagram liks:
+  ### Vist the Diagram liks:
   - https://drive.google.com/file/d/1i_2cdWC9vmXkOjZHs9QDLxCY1-yUvmf6/view?usp=drive_link
