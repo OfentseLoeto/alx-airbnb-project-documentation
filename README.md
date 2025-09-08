@@ -6,7 +6,7 @@
 ### 1. User Management
 - **Registration & Authentication**
   - Register as Guest or Host.
-  - Passwords hashed securely (bcrypt/argon2).
+  - Passwords hashed securely (bcrypt).
   - OAuth (Google, Facebook) supported.
   - Role-Based Access Control (Guest · Host · Admin).
 - **Session Handling**
@@ -22,7 +22,7 @@
 - Required metadata:
   - Title, description, location, nightly price, amenities.
   - Date availability validation.
-  - Upload multiple property images (cloud storage).
+  - Upload multiple property images.
 - Guests can:
   - **Search** by city, region, or keyword.
   - **Filter** by price, amenities, number of guests.
@@ -68,13 +68,13 @@
   - Booking confirmations, cancellations, payment updates, new messages.
 - **Delivery Channels**
   - Email (SendGrid, Mailgun).
-  - In-app real-time notifications (WebSockets or push).
+  - In-app real-time notifications (WebSockets).
 
 ---
 
 ### 7. Admin Dashboard
 - Secure, admin-only panel.
-- Manage:
+ - Manage:
   - Users (roles, suspensions).
   - Properties (approve, remove).
   - Bookings (override, dispute resolution).
