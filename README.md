@@ -1,4 +1,4 @@
-# alx-airbnb-project-documentation for the project features and functionalities
+# alx-airbnb-project-documentation for the project's features and functionalities!
 
 
 ## Key Features
